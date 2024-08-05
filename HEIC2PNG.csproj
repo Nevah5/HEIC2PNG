@@ -11,5 +11,9 @@
         <None Remove="help.txt" />
         <EmbeddedResource Include="help.txt" />
     </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Magick.NET-Q8-AnyCPU" Version="13.10.0" />
+    </ItemGroup>
     
 </Project>

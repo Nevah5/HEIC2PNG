@@ -2,7 +2,7 @@
 █─█─█▄─▄▄─█▄─▄█─▄▄▄─█▀▄▄▀█▄─▄▄─█▄─▀█▄─▄█─▄▄▄▄█
 █─▄─██─▄█▀██─██─███▀██▀▄███─▄▄▄██─█▄▀─██─██▄─█
 █▄█▄█▄▄▄▄▄█▄▄▄█▄▄▄▄▄█▄▄▄▄█▄▄▄███▄▄▄██▄▄█▄▄▄▄▄█
-By Nevah5 - version develop
+By Nevah5 - v1.0.0
 
 HEIC2PNG.exe {input_folder} [output_folder]
 Converts all the HEIC images in the specified input folder to PNG.
