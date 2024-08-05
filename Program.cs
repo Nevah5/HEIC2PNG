@@ -1,6 +1,6 @@
 ﻿using HEIC2PNG;
 
-if (args.Length == 0 || args[1] == "help")
+if (args.Length == 0 || args[0] == "help")
 {
-    Console.WriteLine(FileUtils.ReadLocalEmbeddedResource("banner.txt"));
+    Console.WriteLine(FileUtils.ReadLocalEmbeddedResource("help.txt"));
 }
